@@ -1370,3 +1370,6 @@ LogConfig: Set CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2026.01.26-15.19.57:287][844]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
 [2026.01.26-15.19.57:287][844]LogNFORDenoise: NFORDenoise function shutting down
 [2026.01.26-15.19.57:289][844]LogPakFile: Destroying PakPlatformFile
+[2026.01.26-15.19.57:442][844]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.01.26-15.19.57:490][844]LogExit: Exiting.
+[2026.01.26-15.19.57:510][844]Log file closed, 01/26/26 08:19:57
