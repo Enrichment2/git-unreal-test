@@ -1,5 +1,1 @@
-2026/01/28-09:55:07.758 55e8 Log #3: 3 ops saved to Table #4 OK
-2026/01/28-09:55:07.761 55e8 Archiving C:\Users\26tgeisler\OneDrive - Davis School District\Documents\GitHub\git-unreal-test\git_unreal_test\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/01/28-09:55:07.761 55e8 Table #4: 3 entries OK
-2026/01/28-09:55:07.764 55e8 Archiving C:\Users\26tgeisler\OneDrive - Davis School District\Documents\GitHub\git-unreal-test\git_unreal_test\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/01/28-09:55:07.770 55e8 **** Repaired leveldb C:\Users\26tgeisler\OneDrive - Davis School District\Documents\GitHub\git-unreal-test\git_unreal_test\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 207 bytes. Some data may have been lost. ****
+2026/01/28-09:55:07.773 55e8 Reusing MANIFEST C:\Users\26tgeisler\OneDrive - Davis School District\Documents\GitHub\git-unreal-test\git_unreal_test\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
