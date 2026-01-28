@@ -1,2 +1,3 @@
-2026/01/26-08:17:50.164 6740 Creating DB C:\Users\27ehubert\Documents\git_unreal_test\git-unreal-test\git_unreal_test\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2026/01/26-08:17:50.175 6740 Reusing MANIFEST C:\Users\27ehubert\Documents\git_unreal_test\git-unreal-test\git_unreal_test\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/01/28-09:51:28.282 1acc Reusing MANIFEST C:\Users\27ehubert\Documents\git_unreal_test\git-unreal-test\git_unreal_test\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/01/28-09:51:28.283 1acc Recovering log #3
+2026/01/28-09:51:28.284 1acc Reusing old log C:\Users\27ehubert\Documents\git_unreal_test\git-unreal-test\git_unreal_test\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
